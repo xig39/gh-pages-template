@@ -5,7 +5,5 @@ show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: Setup
-    url: setup
 - title: PZA Uptake
     url: pza
