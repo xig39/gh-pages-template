@@ -1,9 +1,7 @@
 theme:jekyll-theme-minimal
-title: Xing Yee Gan Test Website
-description: Something we learned in Viz class March 22, 2018
-show_downloads: True
+title:Xing Yee Gan Test Website
+description:Something we learned in Viz class March 22, 2018
+show_downloads:True
 navigation:
-  - title: Home
-    url: /
-- title: PZA Uptake
-    url: pza
+- title:PZA Uptake
+    url:pza
