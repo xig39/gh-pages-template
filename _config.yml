@@ -1,9 +1,11 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
-description: A simple template based on minimal jekyll theme
+title: Xing Yee Gan's Test Website
+description: Something we learned in Viz class March 22, 2018
 show_downloads: True
 navigation:
   - title: Home
     url: /
   - title: Setup
     url: setup
+- title: PZA Uptake
+    url: pza
