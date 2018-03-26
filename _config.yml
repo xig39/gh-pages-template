@@ -4,4 +4,4 @@ description: Something we learned in Viz class March 22, 2018
 show_downloads: True
 navigation: 
 - title: PZA Uptake
-    url: pza
+- url: pza
