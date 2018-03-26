@@ -3,7 +3,7 @@ title: Xing Yee Gan Visualization Class Website
 description: Interactive Plots
 show_downloads: True
 navigation: 
-- title: PZA Uptake
+- title: Pyrazinamide Uptake
   url: /pza.html
 - title: Isoniazid Uptake
   url: /niz.html
